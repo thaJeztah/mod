@@ -7,6 +7,6 @@ import (
 
 func SayHello() {
 	fmt.Println("hello")
-	fmt.Fprintf(os.Stderr, "opening the back door")
+	fmt.Fprintf(os.Stderr, "opening the garden door")
 }
 
